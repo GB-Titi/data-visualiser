@@ -27,7 +27,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-##Technos utilisées
+# Technos utilisées
 
 |Techno                         |Interêt                      |
 |-------------------------------|-----------------------------|
@@ -36,12 +36,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 |Vue router| `Pouvoir naviguer sur un menu en single page application` |
 
 
-##Problèmes rencontrés
+## Problèmes rencontrés
 
 Je n'ai pas pu finir l'affichage du graphique, j'étais en train de crée la computed property permettant d'envoyer les données au graphique. <br/><br/>
 Ayant fait le css moi-même, j'aurai été capable et aurai voulu faire quelque chose de beaucoup plus joli, mais je n'ai pas eu le temps car les fonctionnalitées ont étées priorisées.
 
-##Restais a finir (hors bonus)
+## Restais a finir (hors bonus)
 
 >- La modification du tableau en temps réel (il aurait surement falu utiliser le v-model)
 >- La sauvegarde en csv fonctionne sur la page courrante, mais comme je n'ai pas pu implémenter les modifications en temps réel, je ne peux pas télécharger le csv des modifications. Sinon il aurait suffit de stocker les modifications dans un tableau et d'appliquer ma fonction de téléchargement dessus.
