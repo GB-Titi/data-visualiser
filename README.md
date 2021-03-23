@@ -38,7 +38,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ##Problèmes rencontrés
 
-Je n'ai pas pu finir l'affichage du graphique, j'étais en train de crée la computed property permettant d'envoyer les données au graphique.
+Je n'ai pas pu finir l'affichage du graphique, j'étais en train de crée la computed property permettant d'envoyer les données au graphique. <br/><br/>
+Ayant fait le css moi-même, j'aurai été capable et aurai voulu faire quelque chose de beaucoup plus joli, mais je n'ai pas eu le temps car les fonctionnalitées ont étées priorisées.
 
 ##Restais a finir (hors bonus)
 
